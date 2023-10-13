@@ -1,0 +1,63 @@
+.bg-form {
+	background: rgba(226, 226, 226, 0.25);
+}
+
+.text-judul-surat-page {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 56px;
+
+	color: #000000;
+}
+
+.text-font-surat-page {
+	font-family: 'Montserrat';
+}
+
+.text-form-surat-page {
+	font-weight: 600;
+	font-size: 18px;
+
+	color: #747474;
+}
+
+.breadcum-surat-active {
+	font-weight: 700;
+	font-size: 20px;
+
+	color: #747474;
+}
+
+.breadcum-surat {
+	font-weight: 600;
+	font-size: 18px;
+
+	color: #747474;
+}
+
+.btn-kembali-surat {
+	background: #26B99A;
+	border-radius: 4px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 17px;
+	/* or 129% */
+	letter-spacing: 0.04em;
+
+	color: #FFFFFF;
+}
+
+.btn-surat {
+	background: #A79536;
+	border-radius: 4px;
+
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 17px;
+	/* or 129% */
+
+	color: #FFFFFF;
+}

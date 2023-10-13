@@ -1,0 +1,26 @@
+.card-custom-style {
+  background: rgba(217, 217, 217, 0.4) !important;
+  border-radius: 20px;
+}
+
+.card-title-custom {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	color: rgba(26, 34, 60, 0.3);
+	mix-blend-mode: hard-light;
+}
+
+.jumlah-surat {
+	font-family: 'Poppins';
+	font-style: italic;
+	font-weight: 500;
+	font-size: 90px;
+
+	color: rgba(100, 110, 142, 0.5);
+}
+
+.logo-surat-keluar {
+	opacity: 0.1;
+}

@@ -1,0 +1,60 @@
+.jumbotron {
+}
+
+.img-jumbotron {
+  width: 100%;
+}
+.navbar-top {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.text-jumbotron {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 64px;
+
+  color: #ffffff;
+
+  mix-blend-mode: hard-light;
+}
+
+.footer-home {
+  background: #e2e2e2;
+}
+
+.nav-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+
+  color: #b6b6b6;
+}
+
+.btn-nav {
+  background: #a79536;
+  border-radius: 25px;
+  padding: 5px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  outline: none;
+
+  color: #ffffff;
+}
+
+.text-judul-si {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 40px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+
+  color: #ffffff;
+}

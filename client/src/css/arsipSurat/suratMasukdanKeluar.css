@@ -1,0 +1,14 @@
+.btn-tambah-surat {
+  background: #A79536;
+  border-radius: 6px;
+  color: #FFFFFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  padding: 8px 16px;
+}
+
+.btn-tambah-surat:focus {
+  background: #A79536;
+}
